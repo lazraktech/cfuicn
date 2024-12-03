@@ -18,7 +18,7 @@ class MyNode:
 
     #OUTPUT_NODE = False
 
-    CATEGORY = "image/mynode2"
+    CATEGORY = "api/mynode"
 
     def test(self):
         return ()
